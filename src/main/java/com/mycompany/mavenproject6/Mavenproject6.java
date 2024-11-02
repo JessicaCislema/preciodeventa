@@ -52,7 +52,7 @@ public class Mavenproject6 {
         letra = teclado.nextLine().charAt(0); //ingresar un caracter
         switch (letra) {
             case 'A':
-                System.out.println("LA LETRA INGRESADA ES UNA VOCAL");
+                System.out.println("LA LETRA INGRESADA ES UNA VOCAL VALIDO");
                 break;
             case 'b':
                 System.out.println("LA LETRA ES UNA CONSONANTE");
